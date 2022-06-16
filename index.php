@@ -9,7 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+bisaaa ajaa
 <div class="container">
   <div style="margin: 10%;">
   	<h2 class="text-center">PHP BARCODE GENERATOR</h2>
